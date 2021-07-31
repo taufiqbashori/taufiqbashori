@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taufiqbashori
 - 👀 I’m interested in Analytics & Data Science 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python 3.0 and I'm a big fan of Google Colab
 - 💞️ I’m looking to collaborate on fun data science projects
 - 📫 I wrote on medium https://taufiqbashori.medium.com/
 
