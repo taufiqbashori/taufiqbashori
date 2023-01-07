@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @taufiqbashori
-- 👀 I work in Analytics and is curreently learning Data Science 
+- 👀 I work in Analytics and is currently learning Data Science 
 - 🌱 I’m learning Python 3.0 (pandas, numpy, seaborn, pyplot and scikit-learn)
 - 💞️ I’m looking to collaborate on fun data science projects
 - 📫 I wrote on medium https://taufiqbashori.medium.com/
